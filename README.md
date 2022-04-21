@@ -20,6 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dwzrlp&show_icons=true&locale=en" alt="dwzrlp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dwzrlp&" alt="dwzrlp" /></p>
-
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=dwzrlp&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
